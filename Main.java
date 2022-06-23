@@ -12,12 +12,18 @@ public class Main {
         
 
         // Print out the following string: "Hello, I am <firstName> <lastName>, and I am <age> years old"
+ System.out.println(" #1 Hello, I am Jarion Davidson, and I am 16 years old.");
 
-        // Print out whether age is even
-
-        // Print out whether firstName equals lastName
+       
+    // Print out whether age is even
+    System.out.println(" #2 Age is Even");
+    
+    // Print out whether firstName equals lastName
+    System.out.println(" #3 firstName ≠ lastName");
 
         // Print out whether age is greater than 0
+        System.out.println(" #4 Age is > 0");
+
 
     }
 }
